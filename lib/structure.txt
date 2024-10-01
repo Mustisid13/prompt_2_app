@@ -1,0 +1,17 @@
+lib/
+  ├── blocs/                  # BLoC components for state management
+  │   ├── task_bloc.dart
+  │   ├── task_event.dart
+  │   └── task_state.dart
+  ├── models/                 # Data models
+  │   └── task_model.dart
+  ├── repositories/           # Firebase and data handling
+  │   └── task_repository.dart
+  ├── screens/                # UI screens
+  │   ├── home_screen.dart
+  │   ├── add_task_screen.dart
+  │   └── task_detail_screen.dart
+  ├── widgets/                # Reusable widgets
+  │   ├── task_card.dart
+  │   └── priority_chip.dart
+  └── main.dart               # App entry point
