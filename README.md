@@ -2,15 +2,32 @@
 
 A new Flutter project.
 
-## Getting Started
+## Prompt
 
-This project is a starting point for a Flutter application.
+Create a Flutter app for a tic-tac-toe game with the following features:
 
-A few resources to get you started if this is your first Flutter project:
+Offline functionality: The app should function without an internet connection.
+Local storage: Store the scores of previous games locally.
+Three-round format: Each game consists of three rounds. The player who wins two rounds consecutively or has the highest total wins the game.
+Player names: At the start of each game, allow users to enter their names.
+Winner popup: Display a popup message announcing the winner at the end of each game.
+Specific requirements:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Home screen:
+Display the start game button with an attractive design.
+Show the scores of previous games in a visually appealing format.
+Use animations to enhance the user experience.
+Game screen:
+Provide a tic-tac-toe board with a visually pleasing design.
+Allow players to enter their names before starting with smooth animations.
+Display a popup when a game ends, announcing the winner with eye-catching animations.
+Additional considerations:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Aesthetic UI:
+Choose a color palette that is visually appealing and easy on the eyes.
+Use fonts and typography that are legible and enhance the overall look of the app.
+Ensure that the layout is well-organized and easy to navigate.
+Animations:
+Use subtle animations to make the app feel more interactive and engaging.
+Consider using animations for transitions between screens, button clicks, and other user interactions.
+Avoid using excessive animations that can slow down the app or distract from the gameplay.
