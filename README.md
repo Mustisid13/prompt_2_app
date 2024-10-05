@@ -31,3 +31,5 @@ Animations:
 Use subtle animations to make the app feel more interactive and engaging.
 Consider using animations for transitions between screens, button clicks, and other user interactions.
 Avoid using excessive animations that can slow down the app or distract from the gameplay.
+
+Note: The AI provides you the code but sometimes there might be need to configure the code as per need and version of packages used by AI. Also the result might vary based on different AI models.
